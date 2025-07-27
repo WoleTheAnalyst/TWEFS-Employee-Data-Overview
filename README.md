@@ -102,9 +102,7 @@ Initial pivots were created to explore:
 
 ---
 
-### Author
-**Kolawole Odewusi**  
-_Data Analyst | Excel | Power BI | SQL | Data-Driven Problem Solver_
+
 
 ---
 
